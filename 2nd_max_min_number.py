@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
+# Finding the second largest and second smallest number in a list
 
-This is a temporary script file.
-"""
 
 while True:
     n = input("Enter a no. for n length of list : ")
